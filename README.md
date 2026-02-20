@@ -1,6 +1,6 @@
 project live link 
 https://ajay-kote.github.io/MovieVerse/
-MovieVerse is a responsive movie discovery web application built using HTML, CSS (Bulma), and JavaScript. It integrates the TMDB API to allow users to search for movies, view trending content, and explore random movies based on genre or year. The application also displays streaming providers available in India and supports dark/light mode with persistent theme preference
+MovieVerse is a responsive movie discovery web application built using HTML, CSS (Bulma), and JavaScript. It integrates the TMDB API to allow users to search for movies, view trending content, and explore random movies based on genre or year. The application also displays streaming providers available in India and supports dark/light mode with persistent theme preference.
 **Architecture**
 
 📄 Frontend Structure (HTML)
